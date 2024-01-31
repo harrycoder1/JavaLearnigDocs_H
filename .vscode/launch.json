@@ -1,0 +1,322 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "RecordClassJ",
+            "request": "launch",
+            "mainClass": "RecordClassJ",
+            "projectName": "myNewLearning_dca65b98"
+        },
+        {
+            "type": "java",
+            "name": "LVTI",
+            "request": "launch",
+            "mainClass": "LVTI",
+            "projectName": "myNewLearning_dca65b98"
+        },
+        {
+            "type": "java",
+            "name": "Demo",
+            "request": "launch",
+            "mainClass": "Demo",
+            "projectName": "myNewLearning_dca65b98"
+        },
+        {
+            "type": "java",
+            "name": "StreamTutorial2",
+            "request": "launch",
+            "mainClass": "StreamTutorial2",
+            "projectName": "myNewLearning_dca65b98"
+        },
+        {
+            "type": "java",
+            "name": "StreamTutorial",
+            "request": "launch",
+            "mainClass": "StreamTutorial",
+            "projectName": "myNewLearning_dca65b98"
+        },
+        {
+            "type": "java",
+            "name": "CollectionTutorial3",
+            "request": "launch",
+            "mainClass": "CollectionTutorial3",
+            "projectName": "myNewLearning_dca65b98"
+        },
+        {
+            "type": "java",
+            "name": "CollectionSotring3",
+            "request": "launch",
+            "mainClass": "CollectionSotring3",
+            "projectName": "myNewLearning_dca65b98"
+        },
+        {
+            "type": "java",
+            "name": "CollectionMap2Tutorial",
+            "request": "launch",
+            "mainClass": "CollectionMap2Tutorial",
+            "projectName": "myNewLearning_dca65b98"
+        },
+        {
+            "type": "java",
+            "name": "Collection1Tutorial",
+            "request": "launch",
+            "mainClass": "Collection1Tutorial",
+            "projectName": "myNewLearning_dca65b98"
+        },
+        {
+            "type": "java",
+            "name": "MultiThreadingLamda",
+            "request": "launch",
+            "mainClass": "MultiThreadingLamda",
+            "projectName": "myNewLearning_dca65b98"
+        },
+        {
+            "type": "java",
+            "name": "MultiThreadingJ",
+            "request": "launch",
+            "mainClass": "MultiThreadingJ",
+            "projectName": "myNewLearning_dca65b98"
+        },
+        {
+            "type": "java",
+            "name": "MultiThreading",
+            "request": "launch",
+            "mainClass": "MultiThreading",
+            "projectName": "myNewLearning_dca65b98"
+        },
+        {
+            "type": "java",
+            "name": "TryingFInaly",
+            "request": "launch",
+            "mainClass": "TryingFInaly",
+            "projectName": "myNewLearning_dca65b98"
+        },
+        {
+            "type": "java",
+            "name": "InputBufferdJ",
+            "request": "launch",
+            "mainClass": "InputBufferdJ",
+            "projectName": "myNewLearning_dca65b98"
+        },
+        {
+            "type": "java",
+            "name": "BufferReaderJ",
+            "request": "launch",
+            "mainClass": "BufferReaderJ",
+            "projectName": "myNewLearning_dca65b98"
+        },
+        {
+            "type": "java",
+            "name": "ImpJ",
+            "request": "launch",
+            "mainClass": "ImpJ",
+            "projectName": "myNewLearning_dca65b98"
+        },
+        {
+            "type": "java",
+            "name": "ThrowsJ",
+            "request": "launch",
+            "mainClass": "ThrowsJ",
+            "projectName": "myNewLearning_dca65b98"
+        },
+        {
+            "type": "java",
+            "name": "ExceptionThrow",
+            "request": "launch",
+            "mainClass": "ExceptionThrow",
+            "projectName": "myNewLearning_dca65b98"
+        },
+        {
+            "type": "java",
+            "name": "ExceptionHandling",
+            "request": "launch",
+            "mainClass": "ExceptionHandling",
+            "projectName": "myNewLearning_dca65b98"
+        },
+        {
+            "type": "java",
+            "name": "LamedaExpression",
+            "request": "launch",
+            "mainClass": "LamedaExpression",
+            "projectName": "myNewLearning_dca65b98"
+        },
+        {
+            "type": "java",
+            "name": "EnumJ2",
+            "request": "launch",
+            "mainClass": "EnumJ2",
+            "projectName": "myNewLearning_dca65b98"
+        },
+        {
+            "type": "java",
+            "name": "Enumj",
+            "request": "launch",
+            "mainClass": "Enumj",
+            "projectName": "myNewLearning_dca65b98"
+        },
+        {
+            "type": "java",
+            "name": "InterfaceJ",
+            "request": "launch",
+            "mainClass": "InterfaceJ",
+            "projectName": "myNewLearning_dca65b98"
+        },
+        {
+            "type": "java",
+            "name": "MoreJ",
+            "request": "launch",
+            "mainClass": "MoreJ",
+            "projectName": "myNewLearning_dca65b98"
+        },
+        {
+            "type": "java",
+            "name": "AnyomousClassJ",
+            "request": "launch",
+            "mainClass": "AnyomousClassJ",
+            "projectName": "myNewLearning_dca65b98"
+        },
+        {
+            "type": "java",
+            "name": "InnerClassJ",
+            "request": "launch",
+            "mainClass": "InnerClassJ",
+            "projectName": "myNewLearning_dca65b98"
+        },
+        {
+            "type": "java",
+            "name": "WrapperClassJ",
+            "request": "launch",
+            "mainClass": "WrapperClassJ",
+            "projectName": "myNewLearning_dca65b98"
+        },
+        {
+            "type": "java",
+            "name": "Upcasting",
+            "request": "launch",
+            "mainClass": "Upcasting",
+            "projectName": "myNewLearning_dca65b98"
+        },
+        {
+            "type": "java",
+            "name": "ObjectClassH",
+            "request": "launch",
+            "mainClass": "ObjectClassH",
+            "projectName": "myNewLearning_dca65b98"
+        },
+        {
+            "type": "java",
+            "name": "ObjectClass",
+            "request": "launch",
+            "mainClass": "ObjectClass",
+            "projectName": "myNewLearning_dca65b98"
+        },
+        {
+            "type": "java",
+            "name": "UsePackage",
+            "request": "launch",
+            "mainClass": "UsePackage",
+            "projectName": "myNewLearning_dca65b98"
+        },
+        {
+            "type": "java",
+            "name": "Objectd",
+            "request": "launch",
+            "mainClass": "Objectd",
+            "projectName": "myNewLearning_dca65b98"
+        },
+        {
+            "type": "java",
+            "name": "T8this",
+            "request": "launch",
+            "mainClass": "T8this",
+            "projectName": "myNewLearning_dca65b98"
+        },
+        {
+            "type": "java",
+            "name": "StaticVaribale",
+            "request": "launch",
+            "mainClass": "StaticVaribale",
+            "projectName": "myNewLearning_dca65b98"
+        },
+        {
+            "type": "java",
+            "name": "String1",
+            "request": "launch",
+            "mainClass": "String1",
+            "projectName": "myNewLearning_dca65b98"
+        },
+        {
+            "type": "java",
+            "name": "Array2",
+            "request": "launch",
+            "mainClass": "Array2",
+            "projectName": "myNewLearning_dca65b98"
+        },
+        {
+            "type": "java",
+            "name": "Array",
+            "request": "launch",
+            "mainClass": "Array",
+            "projectName": "myNewLearning_dca65b98"
+        },
+        {
+            "type": "java",
+            "name": "T6array",
+            "request": "launch",
+            "mainClass": "T6array",
+            "projectName": "myNewLearning_dca65b98"
+        },
+        {
+            "type": "java",
+            "name": "T6class",
+            "request": "launch",
+            "mainClass": "T6class",
+            "projectName": "myNewLearning_dca65b98"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Hello",
+            "request": "launch",
+            "mainClass": "Hello",
+            "projectName": "myNewLearning_dca65b98"
+        },
+        {
+            "type": "java",
+            "name": "T3operator",
+            "request": "launch",
+            "mainClass": "T3operator",
+            "projectName": "myNewLearning_dca65b98"
+        },
+        {
+            "type": "java",
+            "name": "T4ifels",
+            "request": "launch",
+            "mainClass": "T4ifels",
+            "projectName": "myNewLearning_dca65b98"
+        },
+        {
+            "type": "java",
+            "name": "T4loop",
+            "request": "launch",
+            "mainClass": "T4loop",
+            "projectName": "myNewLearning_dca65b98"
+        },
+        {
+            "type": "java",
+            "name": "typecastting",
+            "request": "launch",
+            "mainClass": "typecastting",
+            "projectName": "myNewLearning_dca65b98"
+        }
+    ]
+}
